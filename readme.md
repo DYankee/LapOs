@@ -1,1 +1,0 @@
-This is the home of the [CC:Tweaked operating](https://tweaked.cc/) system LapOs.

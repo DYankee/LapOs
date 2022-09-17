@@ -1,5 +1,3 @@
-PasteId = "MqegTrzh"
-
 A = {}
 
 for i = 1, 400, 1 do
