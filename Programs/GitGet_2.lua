@@ -7,7 +7,6 @@ function Gitget()
         repoName = "LapOs",
         branch = "main",
     }
-
     local url = "https://raw.githubusercontent.com/" .. urlparts.repoOwner .. "/" .. urlparts.repoName .. "/" .. urlparts.branch .. "/" .. args[1]
     local response = http.get(url)
     if response then
